@@ -1,0 +1,10 @@
+{
+    "username": "username@user.com",
+    "password": "password123",
+    "imap_source": "imap-mail.outlook.com",
+    "email_sender": "Daily Coding Problem <founders@dailycodingproblem.com>",
+    "directory_containing_daily_coding_problem_mails": "daily_coding_problems",
+    "download_directory": "target_directory/to/hold/problems",
+    "start_line": "Good morning! Here's your coding interview problem for today.",
+    "end_line": "--------------------------------------------------------------------------------"
+}
